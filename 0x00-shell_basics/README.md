@@ -1,4 +1,3 @@
-#0x00. shell,basics
 0-curret_working_directory-prints absolute path name of current working directory
 1-listit-dislay -the content list of your current directory
 2-bring_me_home -write a script that changes the working directory to the user's
